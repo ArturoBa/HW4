@@ -25,7 +25,7 @@
         <!--FIN DE LA DECLARACION DEL BOOSTRAP-->
         
     </head>
-<body>
+<body style="background: #cccccc;">
     <div class="container">
         <h3>Ingresa tus datos aqu&iacute;, con confianza</h3>
         <form method="post">
