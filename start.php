@@ -13,7 +13,7 @@
         <!--FIN DE LA DECLARACION DEL BOOSTRAP-->
         
     </head>
-<body>
+<body style="background: #cccccc;">
     <div class="container">
         
         <div>
